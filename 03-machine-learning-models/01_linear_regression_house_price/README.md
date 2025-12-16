@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction – India (Linear Regression)
+# 🏠 House Price Prediction (Linear Regression)
 
 ## 📌 Project Overview
 This project builds an end-to-end **Linear Regression model** to predict house prices in India based on property area.  
@@ -17,6 +17,14 @@ To develop a **baseline pricing model** that can:
 - Estimate house prices based on area
 - Help stakeholders understand key price drivers
 - Serve as a foundation for more advanced models
+
+---
+
+## Data used : House Price India (from Kaggle)
+### Dataset overview
+<p align="center">
+  <img src="images/dataset_overview.png" width="1000">
+</p>
 
 ---
 
